@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sophia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
----
+
 <h1 align="center"><b> ABOUT ME </h1>
----
+
 
 - I'am a Self Taught Programmer that creates tools and little games in my spare time.
 - I Run a small (ISH) Game hosting Company
