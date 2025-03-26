@@ -4,10 +4,9 @@
 
 
 - I'am a Self Taught Programmer that creates tools and little games in my spare time.
-- I Run a small (ISH) Game hosting Company
 - Currently Diving Deeper into C++
 - In my spare time i Work on little Projects that dont end up released :3
-
+(I have since Retired from creating public projects.)
  <h1 align="center"><b>
 
 **Languages**:
